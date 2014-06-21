@@ -5,7 +5,7 @@ Alfred2 Workflow for Get UTC.
 
 ## Install
 
-Download [packed workflow](https://github.com/kenjiskywalker/alfred-get-utc-workflow/raw/master/get-utc-time.alfredworkflow) and open it.
+Download [get utc workflow](https://github.com/kenjiskywalker/alfred-get-utc-workflow/raw/master/get-utc-time.alfredworkflow) and open it.
 
 ## How to use
 
