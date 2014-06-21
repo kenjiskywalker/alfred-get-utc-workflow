@@ -1,0 +1,22 @@
+## workflow build config
+
+# id and name for the workflow (bundle id = domain.id)
+id: alfred-get-utc
+
+# base domain
+domain: com.kenjiskywalker
+
+name: Get UTC Time
+description: calc Time
+created_by: kenjiskywalker
+website: https://github.com/kenjiskywalker/alfred-get-utc-workflow
+readme: readme
+
+## development config
+
+# path is the relative path to the workflow in the project root
+path: workflow
+
+# If you are using Alfred's advanced Dropbox sync, indicate the path shown in
+# Alfred Preferences > Advanced > Syncing:
+dropbox: ~/Dropbox
